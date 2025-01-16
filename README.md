@@ -1,1 +1,1 @@
-# College FullStack Dev Traing day basis Tracking
+# College FullStack Dev Traning day basis Tracking
