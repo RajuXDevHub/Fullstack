@@ -1,0 +1,15 @@
+Array - 1D Array
+        2D Array
+        .
+        .
+        N D Array (N = 2,3,4,5,6,7,8.....)
+
+        *Associative Array (Only Applicable for php ):- 
+
+** 1-D Array :-
+            * For Each Loop : where don't need to put condition and step 
+
+
+            Lexico Graphical method : Dic wise solving  Asii value of A - > 65 and a = 96
+
+            23 60.34, A Ana Apple 67 Ana a aAn aan apple

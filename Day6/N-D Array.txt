@@ -1,0 +1,6 @@
+N-D Array :- Array of an array 
+    N:- all possible natural number 
+
+
+
+Anagram :- Logical aplroach 

@@ -1,0 +1,10 @@
+Associative Array
+        :- json :- Javascript object notation
+
+
+        unset method to delete element
+        and pop also have to delete from the last 
+
+
+        sorting :- value wise assanding :- arsort();
+                        krsort() to sort key wise 
