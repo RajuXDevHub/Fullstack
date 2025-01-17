@@ -21,7 +21,7 @@
     <a href="https://topmate.io/itsprincesingh" target="blank">
   <img src="https://img.shields.io/badge/Topmate-009933?style=for-the-badge&logo=appveyor&logoColor=white" alt="Topmate" />
  </a>
-   <a href="rajuchowdhury5315@gmail.com" target="_blank">
+   <a href="https://rajuchowdhury5315@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Raju Chowdhury" />
  </a> 
 </p>
