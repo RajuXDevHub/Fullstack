@@ -25,6 +25,17 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Raju Chowdhury" />
  </a> 
 </p>
+
+## 🙋‍♂️ About Me
+
+- 🥋  I'm always ready to learn new things with Effective ideas. Going on... ❤️
+- 👨‍💻 Love to learn new technologies and to explore new sets of areas.
+- 📚 listening Audio books 🫶
+- 👁‍🗨 Open 
+- 👨‍🏫 Student Yrrr....
+- 🚀 Passionate About Coding
+- 📘 I’m Currently Studying **Full-Stack Development**
+
 ## 📧 Connect with me:
 <p align="left">
 
