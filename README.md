@@ -6,7 +6,7 @@
     <a href="https://www.youtube.com" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Raju Chowdhury" />
  </a> 
- <a href="https://www.linkedin.com/in/prince-singh-314a65187/" target="_blank">
+ <a href="https://www.linkedin.com/in/raju-chowdhury-b046562b4" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Raju Chowdhury"/>
  </a>
  <a href="https://github.com/RajuChowdhury15" target="_blank">
