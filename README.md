@@ -1,7 +1,7 @@
 # College FullStack Dev Traning day basis Tracking
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm <b>Raju Chowdhury</b></h1>
 
-<h2 align="center"><b>B.Tech in CSE (2nd Year - 4th sem)</b></h2> 
+<h2 align="center"><b>Studied Bachelor of Technology (B.Tech.) Department of Computer Science And Engineering (CSE) at Swami Vivekananda University , Barrackpore</b></h2> 
 <p align="center">  
     <a href="https://www.youtube.com" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Raju Chowdhury" />
