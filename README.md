@@ -25,3 +25,18 @@
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Raju Chowdhury" />
  </a> 
 </p>
+## 📧 Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/raju-chowdhury-b046562b4" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href="https://www.youtube.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+
+</p>
+
+## ❤ Views and Followers
+<a href="#">
+    <img src="https://komarev.com/ghpvc/?username=RajuChowdhury">
+</a>
+<a href="https://github.com/RajuChowdhury15?tab=followers"><img src="https://img.shields.io/github/followers/RajuChowdhury15?label=Followers&style=social" alt="GitHub Badge"></a>
